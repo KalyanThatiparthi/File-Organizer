@@ -1,15 +1,16 @@
 # File-Organizer
-Description: Conducted data analysis on Zomato restaurant data using Python and key data science libraries to extract insights on customer preferences, pricing trends, and restaurant ratings.
+Description: Developed a Python-based script to automate file organization within a specified directory. The program categorizes files based on their extensions and moves them into designated folders, ensuring a structured and clutter-free workspace.
 
-Tools & Technologies: Pandas, NumPy, Matplotlib, Seaborn
+Tools & Technologies: Python, OS Module, Shutil
 
 Key Responsibilities:
 
-Processed and cleaned restaurant data to ensure accuracy in analysis.
+Implemented logic to scan and classify files into predefined categories such as Images, Documents, Videos, and Archives.
 
-Explored trends in customer ratings, pricing distribution, and online ordering patterns.
+Created a dynamic folder structure to store files efficiently.
 
-Created visualizations to represent data effectively for better interpretation.
+Addressed challenges related to file permissions and error handling.
 
-Addressed challenges related to missing values and data inconsistencies.
-Outcome: Improved understanding of restaurant industry trends and customer behavior through data-driven insights.
+Optimized the script for seamless execution across different directories.
+
+Outcome: Enhanced file management efficiency, reducing manual effort and improving accessibility of stored documents.
